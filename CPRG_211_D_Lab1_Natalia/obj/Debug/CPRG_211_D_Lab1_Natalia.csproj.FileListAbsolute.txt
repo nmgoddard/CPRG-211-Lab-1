@@ -1,0 +1,7 @@
+C:\Users\tmgod\source\repos\CPRG_211_D_Lab1_Natalia\CPRG_211_D_Lab1_Natalia\obj\Debug\CPRG_211_D_Lab1_Natalia.csproj.AssemblyReference.cache
+C:\Users\tmgod\source\repos\CPRG_211_D_Lab1_Natalia\CPRG_211_D_Lab1_Natalia\obj\Debug\CPRG_211_D_Lab1_Natalia.csproj.CoreCompileInputs.cache
+C:\Users\tmgod\source\repos\CPRG_211_D_Lab1_Natalia\CPRG_211_D_Lab1_Natalia\bin\Debug\CPRG_211_D_Lab1_Natalia.exe.config
+C:\Users\tmgod\source\repos\CPRG_211_D_Lab1_Natalia\CPRG_211_D_Lab1_Natalia\bin\Debug\CPRG_211_D_Lab1_Natalia.exe
+C:\Users\tmgod\source\repos\CPRG_211_D_Lab1_Natalia\CPRG_211_D_Lab1_Natalia\bin\Debug\CPRG_211_D_Lab1_Natalia.pdb
+C:\Users\tmgod\source\repos\CPRG_211_D_Lab1_Natalia\CPRG_211_D_Lab1_Natalia\obj\Debug\CPRG_211_D_Lab1_Natalia.exe
+C:\Users\tmgod\source\repos\CPRG_211_D_Lab1_Natalia\CPRG_211_D_Lab1_Natalia\obj\Debug\CPRG_211_D_Lab1_Natalia.pdb
